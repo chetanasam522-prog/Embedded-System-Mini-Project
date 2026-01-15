@@ -57,7 +57,7 @@
        P1 = 0x01;
        delay(1);
 */
-/** Stepper Motor Code(8051-Full Step,clockwise) **/
+/** Stepper Motor Code(8051-Full Step,clockwise) */
 #include <reg51.h>
 
 /* Delay Function */

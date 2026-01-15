@@ -1,4 +1,4 @@
-# Stepper Motor Control using 8051 Microcontroller
+## Stepper Motor Control using 8051 Microcontroller
 
 ## Project Overview
 This project demonstrates the basic logic and control of a stepper motor using an 8051 microcontroller.  
