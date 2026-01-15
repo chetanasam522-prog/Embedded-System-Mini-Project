@@ -8,42 +8,42 @@
 ---
 
 ##  Objectives
-1. To understand microcontroller-based hardware interfacing
-2. To control DC motor and LED using digital I/O pins
-3. To perform step-wise rotation of a stepper motor
-4. To display numeric data using a 7-segment display
-5. To gain practical experience in Embedded C programming
+- To understand microcontroller-based hardware interfacing
+- To control DC motor and LED using digital I/O pins
+- To perform step-wise rotation of a stepper motor
+- To display numeric data using a 7-segment display
+- To gain practical experience in Embedded C programming
 
 ---
 
 ## Components Used
-1. Microcontroller (8051 or equivalent)
-2. DC Motor
-3. Stepper Motor
-4. LED
-5. 7-Segment Display
-6. Resistors
-7. Motor Driver (ULN2003 / L293D – if required)
-8. Power Supply
-9. Connecting Wires
+- Microcontroller (8051 or equivalent)
+-  DC Motor
+- Stepper Motor
+- LED
+- 7-Segment Display
+- Resistors
+- Motor Driver (ULN2003 / L293D – if required)
+- Power Supply
+- Connecting Wires
 
 ---
 
 ##  Features
-1. DC Motor ON/OFF control
-2. LED blinking and indication
-3. Stepper motor clockwise / step-wise rotation
-4. Numeric output on 7-segment display
-5. Software-based delay implementation
-6. Simple and beginner-friendly embedded logic
+- DC Motor ON/OFF control
+- LED blinking and indication
+- Stepper motor clockwise / step-wise rotation
+- Numeric output on 7-segment display
+- Software-based delay implementation
+- Simple and beginner-friendly embedded logic
 
 ---
 
 ##  Technologies Used
-1. Embedded C
-2. 8051 Microcontroller
-3. Keil µVision (IDE)
-4. Proteus (for simulation – optional)
+- Embedded C
+- 8051 Microcontroller
+- Keil µVision (IDE)
+- Proteus (for simulation – optional)
 
 ---
 
